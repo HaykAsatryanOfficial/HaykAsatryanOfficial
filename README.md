@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @HaykAsatryanOfficial
+- 👀 I’m interested in Web Programming
+- 🌱 I’m currently learning Front End
+- 💬 Ask me about React PHP MySql
+- 💞️ I’m looking to collaborate on Web Programming
+- 📫 You can reach me with gmail hayk.asatryan.official@gmail.com
+- ⚡ Fun fact I think I am funny
